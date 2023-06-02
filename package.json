@@ -1,0 +1,19 @@
+{
+  "name": "hyper-express-serve-static",
+  "version": "1.0.0",
+  "description": "Middleware that implements static serving into the HyperExpress webserver.",
+  "main": "src/index.ts",
+  "scripts": {
+    "run": "src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prince-ao/hyper-express-serve-static.git"
+  },
+  "author": "prince-ao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prince-ao/hyper-express-serve-static/issues"
+  },
+  "homepage": "https://github.com/prince-ao/hyper-express-serve-static#readme"
+}
